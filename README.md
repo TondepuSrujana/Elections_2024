@@ -1,6 +1,6 @@
 # Elections_2024
 Developed an interactive Tableau dashboard for analyzing the 2024 Andhra Pradesh elections
-
+Please find the link to interactive Dashboard: https://lnkd.in/g5gxpFpP
 
 Overview
 This project involved the development of an interactive Tableau dashboard designed to simplify the analysis of the complex voting data from the 2024 Andhra Pradesh elections. The dashboard provides comprehensive insights into various aspects of the election, including Member of Parliament (MP) voting seats, district-level voting patterns, and detailed constituency information. The user-friendly design ensures that users can easily explore and understand the election data.
